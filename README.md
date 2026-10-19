@@ -42,6 +42,22 @@ const engineer = {
 
 ---
 
+### 💼 Professional Experience
+
+#### **Production Specialist – Operations** • **Fusion CX** *(Jan 2026 – Present | New Delhi, India)*
+- 📈 Studied customer issue data across multiple systems to find patterns and root causes, helping push first-contact resolution **above 88%**.
+- 🛠️ Turned technical and usage data into **25+ clear, easy-to-follow walkthroughs** and troubleshooting sessions for clients.
+- ⚡ Reviewed process and ticket data to build **3 standardized workflows and decision trees** now used team-wide, cutting average handling time by **~18%**.
+- 🎯 Analyzed account and usage trends to spot upsell opportunities, **consistently exceeding commercial targets**.
+- 💡 Collected and organized **10+ pieces of structured customer feedback** into clear, actionable summaries that shaped 2 product updates.
+
+#### **Technical Support II / Senior Representative** • **Concentrix** *(Apr 2025 – Jan 2026 | Gurugram, India)*
+- 🏆 Recognized in the **Top 10% Performers** across CSAT, FCR, and AHT metrics company-wide.
+- 🔍 Diagnosed Tier-2 support telemetry across hardware, software, network, and SaaS stacks, resolving **95%+ of escalated tickets**.
+- 📉 Analyzed API logs and diagnostic data to identify root causes, **slashing repeat-contact rates by ~30%**.
+
+---
+
 ### 🛠️ Tech Stack & Toolbox
 
 <div align="center">

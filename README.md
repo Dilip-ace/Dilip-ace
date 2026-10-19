@@ -9,7 +9,8 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Dilip-ace&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Views"/>
     <a href="https://github.com/Dilip-ace?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-17-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/dilipkumar-"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:dilipkumarmehra100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
 </div>
@@ -111,11 +112,11 @@ const engineer = {
 
   <br/>
 
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/dilipkumar-">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:dilip.developer@example.com">
+  <a href="mailto:dilipkumarmehra100@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;

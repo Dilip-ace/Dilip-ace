@@ -22,18 +22,23 @@
 ```javascript
 const engineer = {
     name: "Dilip Kumar",
-    role: "Full-Stack Developer & Automation Specialist",
-    codebase: ["JavaScript (ES6+)", "Python", "Java", "C++"],
-    specialties: ["Modern Web Apps", "Headless Browser Automation", "Web Scraping", "NLP / ML"],
-    passion: "Turning complex real-world requirements into clean, automated software",
-    funFact: "If a task takes more than 3 clicks, I'll write a script to automate it!"
+    headline: "B.Tech IT Graduate | Java, C++, Emerging Tech | Data Analyst & Azure Full-Stack",
+    currentRole: "Production Specialist – Operations @ Fusion CX",
+    previousRole: "Technical Support II @ Concentrix (Top 10% Performer)",
+    education: "B.Tech in Information Technology @ GGSIPU (CGPA: 8.45 / 10)",
+    location: "New Delhi, India",
+    languages: ["Hindi (Native)", "English (Professional)"],
+    coreSkills: ["SQL", "Python Automation", "Advanced Excel", "Azure Cloud", "Java", "C++"],
+    impact: "Pushed FCR >88% & cut average handling time by ~18%"
 };
 ```
 
-- 🔭 **What I Do:** Build robust full-stack web applications, custom web scrapers, and headless browser bots.
-- 💡 **Core Strengths:** Problem-solving, DOM automation (Puppeteer), REST APIs, and responsive design.
-- 🌱 **Currently Exploring:** Cloud-native serverless workflows, modern React patterns, and intelligent agents.
-- ⚡ **Open to:** Software Engineering roles, collaborative projects, and freelance automation tasks.
+- 🔭 **Current Focus:** Turning complex operational and customer data into actionable business insights, SQL dashboards, and automated Python workflows.
+- 🏆 **Track Record:** Recognized in the **Top 10% Performers** across CSAT, FCR, and AHT metrics at Concentrix.
+- 💡 **Core Strengths:** SQL analysis, root-cause troubleshooting, DOM automation (Puppeteer), REST APIs, and responsive design.
+- 🤝 **Leadership & Community:** Former **Internshala Student Partner (ISP-21)**, **Leaders For Tomorrow** member, and **IOSD MAIT** software developer society member.
+- 📜 **Published Author:** *"Automated detection and Risk Assessment of Cyberbullying by Implementation of a Comment Toxicity Detector"*.
+- ⚡ **Open to:** Full-Stack & Data Analytics roles, engineering collaborations, and challenging software builds.
 
 ---
 
@@ -76,6 +81,31 @@ const engineer = {
 | 🤖 **[Hackerrank-Automation](https://github.com/Dilip-ace/Hackerrank-Automation)** | Intelligent browser automation script running headless Chrome to automatically complete code submissions. | `Puppeteer` `Node.js` | [Inspect Code ➔](https://github.com/Dilip-ace/Hackerrank-Automation) |
 | 🏡 **[Decor-Urge](https://github.com/Dilip-ace/decor-urge)** | Full-featured interior design web application deployed on Microsoft Azure Static Apps. | `HTML5` `CSS3` `Azure` | [Inspect Code ➔](https://github.com/Dilip-ace/decor-urge) |
 | 🧠 **[Toxic-Comment](https://github.com/Dilip-ace/toxic-comment)** | Natural Language Processing & ML model classifying and filtering toxic sentiment in online discussions. | `Python` `Jupyter` `NLP` | [Inspect Code ➔](https://github.com/Dilip-ace/toxic-comment) |
+
+---
+
+### 📜 Professional Certifications & Job Simulations
+
+| Credential | Issuer | Focus Domains |
+| :--- | :---: | :--- |
+| 🐍 **Google IT Automation with Python** | Google | Python Scripting, OS Automation, Git, Troubleshooting |
+| ☁️ **Azure Cloud Architect Nanodegree** | Udacity | Cloud Resiliency, Infrastructure Scalability, Azure DevOps |
+| 💼 **Microsoft Go-To-Market Simulation** | Microsoft | Cloud Solution Positioning, Enterprise Advisory, Market Strategy |
+| 🛠️ **Google IT Support Professional** | Google | Networking, SysAdmin, Linux CLI, Security Fundamentals |
+| 📊 **Deloitte Technology Consulting** | Deloitte | Feasibility Analysis, Cloud Migration Strategy, Architecture |
+| 🌐 **Network Virtualization Concepts** | VMware | Software-Defined Networking (SDN), Overlay Tunnels |
+
+---
+
+### 🎓 Education & Academic Foundations
+
+* 🏛️ **Maharaja Agrasen Institute of Technology (MAIT), GGSIPU, Delhi**
+  * **Bachelor of Technology (B.Tech) — Information Technology** (2018 – 2022)
+  * **Graduated with Distinction: CGPA 8.45 / 10**
+  * Active Member: IOSD MAIT (International Organisation of Software Developers)
+* 🏫 **Spring Meadows Public School, Delhi**
+  * Senior Secondary Examination (Class XII), Non-Medical Science (2016 – 2017)
+  * Secondary Examination (Class X) (2014 – 2015)
 
 ---
 
